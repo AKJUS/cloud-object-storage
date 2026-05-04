@@ -3,12 +3,14 @@
 copyright:
 
   years: 2017, 2024, 2026
-lastupdated: "2026-04-28"
+lastupdated: "2026-05-01"
 
 
 keywords: cli, command line reference, object storage
 
 subcollection: cloud-object-storage
+
+content-type: cli-docs
 
 ---
 {:external: target="_blank" .external}
